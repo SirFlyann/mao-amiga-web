@@ -9,7 +9,7 @@ import TableList from "views/TableList/TableList.jsx";
 import Maps from "views/Maps/Maps.jsx";
 import UserPage from "views/UserPage/UserPage.jsx";
 
-var dashRoutes = [
+var candidatos = [
   {
     path: "/dashboard",
     name: "Vagas",

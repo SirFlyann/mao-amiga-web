@@ -2,7 +2,7 @@
 // // // table head data and table body data for Tables view
 // #############################
 
-const thead = ["Cargo", "Data de Início", "Data de Termino", "Ações"];
+const thead = ["Título", "Data de Início", "Data de Termino", "Ações"];
 const tbody = [
   {
     className: "table-success",
